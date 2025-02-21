@@ -1,0 +1,14 @@
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.AssemblyInfoInputs.cache
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.AssemblyInfo.cs
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.csproj.CoreCompileInputs.cache
+C:\Users\arceu\source\repos\Convesor\Convesor\bin\Debug\net8.0\Convesor.exe
+C:\Users\arceu\source\repos\Convesor\Convesor\bin\Debug\net8.0\Convesor.deps.json
+C:\Users\arceu\source\repos\Convesor\Convesor\bin\Debug\net8.0\Convesor.runtimeconfig.json
+C:\Users\arceu\source\repos\Convesor\Convesor\bin\Debug\net8.0\Convesor.dll
+C:\Users\arceu\source\repos\Convesor\Convesor\bin\Debug\net8.0\Convesor.pdb
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.dll
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\refint\Convesor.dll
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.pdb
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\Convesor.genruntimeconfig.cache
+C:\Users\arceu\source\repos\Convesor\Convesor\obj\Debug\net8.0\ref\Convesor.dll
