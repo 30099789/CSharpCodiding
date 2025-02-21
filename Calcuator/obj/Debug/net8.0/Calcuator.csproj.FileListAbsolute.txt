@@ -1,0 +1,14 @@
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.AssemblyInfoInputs.cache
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.AssemblyInfo.cs
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.csproj.CoreCompileInputs.cache
+C:\Users\arceu\source\repos\Calcuator\Calcuator\bin\Debug\net8.0\Calcuator.exe
+C:\Users\arceu\source\repos\Calcuator\Calcuator\bin\Debug\net8.0\Calcuator.deps.json
+C:\Users\arceu\source\repos\Calcuator\Calcuator\bin\Debug\net8.0\Calcuator.runtimeconfig.json
+C:\Users\arceu\source\repos\Calcuator\Calcuator\bin\Debug\net8.0\Calcuator.dll
+C:\Users\arceu\source\repos\Calcuator\Calcuator\bin\Debug\net8.0\Calcuator.pdb
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.dll
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\refint\Calcuator.dll
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.pdb
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\Calcuator.genruntimeconfig.cache
+C:\Users\arceu\source\repos\Calcuator\Calcuator\obj\Debug\net8.0\ref\Calcuator.dll
