@@ -1,6 +1,6 @@
 ﻿/*Caio Guilherme Ferreira da Silva
  * Student ID: 30099789
- *v0.1 2021-05-26
+ *v0.1 2025-02-21
  *Description: This program is a console application that creates a list of people with missing values, 
  *duplicate emails, and different date formats. The program will handle the missing values by replacing them with the average age of the list,
  *remove duplicate emails, and standardize the date format to yyyy-MM-dd. The program will display the list of people with the corrected values.
