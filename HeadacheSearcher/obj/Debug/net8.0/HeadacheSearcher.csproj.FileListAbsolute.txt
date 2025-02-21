@@ -1,0 +1,14 @@
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\bin\Debug\net8.0\HeadacheSearcher.exe
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\bin\Debug\net8.0\HeadacheSearcher.deps.json
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\bin\Debug\net8.0\HeadacheSearcher.runtimeconfig.json
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\bin\Debug\net8.0\HeadacheSearcher.dll
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\bin\Debug\net8.0\HeadacheSearcher.pdb
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.AssemblyInfoInputs.cache
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.AssemblyInfo.cs
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.csproj.CoreCompileInputs.cache
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.dll
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\refint\HeadacheSearcher.dll
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.pdb
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\HeadacheSearcher.genruntimeconfig.cache
+C:\Users\30099789\source\repos\HeadacheSearcher\HeadacheSearcher\obj\Debug\net8.0\ref\HeadacheSearcher.dll
